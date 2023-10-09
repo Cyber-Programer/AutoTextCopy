@@ -10,12 +10,13 @@ This Python script provides a simple automation tool to type a specified text mu
 INPUT
 
 ```bash
-     _         _       _____          _     ___                  
+
+   _         _       _____          _     ___                  
   /_\  _   _| |_ ___/__   \_____  _| |_  / __\___  _ __  _   _ 
  //_\| | | | __/ _ \ / /\/ _ \ \/ / __|/ /  / _ \| '_ \| | | |
 /  _  \ |_| | || (_) / / |  __/>  <| |_/ /__| (_) | |_) | |_| |
 \_/ \_/\__,_|\__\___/\/   \___/_/\_\__\____/\___/| .__/ \__, |
-                                                  |_|    |___/ 
+                                                  |_|    |___/
 
 
 Enter text which you want to type many time: how are you?
