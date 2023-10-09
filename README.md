@@ -1,4 +1,6 @@
-
+<p aling='center'>
+  <img src="code.png" widht=900 height=500>
+</p>
 # Automated Text Typing and Clipboard Copy Script
 
 
