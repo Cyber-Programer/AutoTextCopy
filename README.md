@@ -4,6 +4,10 @@
 
 This Python script provides a simple automation tool to type a specified text multiple times, with each instance separated by a newline character (\n). Additionally, it copies the generated text to the system clipboard. This can be useful for various tasks where repetitive typing is required, and you want to quickly copy the result to the clipboard for pasting into other applications.
 
+<p align="center">
+  <img src="img.png">
+</p>
+
 
 ## Demo
 
