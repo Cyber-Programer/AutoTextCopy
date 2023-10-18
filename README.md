@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="code.png" widht=1000 height=200>
+  <img src="removebg.banner.png">
 </p>
 # Automated Text Typing and Clipboard Copy Script
 
